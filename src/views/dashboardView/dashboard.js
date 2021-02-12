@@ -260,6 +260,7 @@ export class Dashboard extends React.Component {
                 }
                 
             </div>
+            <div className="spaceView"></div>
         </div>
       )
     }
