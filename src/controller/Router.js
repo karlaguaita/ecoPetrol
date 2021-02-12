@@ -12,7 +12,7 @@ import Chat from "../views/chat/Chat.js";
 
 const Router = () => {
     return(
-      <BrowserRouter>
+      <BrowserRouter basename="/ecoPetrol">
         <Switch>
           <Route exact path='/'>
             <Home windowchoose='Register' hash='/'/>
