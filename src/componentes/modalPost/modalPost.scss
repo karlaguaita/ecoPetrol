@@ -18,19 +18,29 @@
     border-radius: 20px;
     display: flex;
     flex-direction: column;
+    padding-top: 20px;
 }
 
 .createPost{
     margin-left: 10px;
     color: #42403A;
     font-size: 16px;
+    
 }
 
 .inputBox{
     height: 100px;
+    width: 90%;
     margin-left: 10px;
     margin-right: 10px;
     border-radius: 10px;
+    margin-top: 10px;
+    padding: 1rem;
+    background: #FBFBFB;
+    border: 0.25px solid #5C5A5A;
+    box-sizing: border-box;
+    border-radius: 9px;
+    margin-bottom: 10px;
 }
 
 .buttonsPost{
