@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ecoPetrol/static/css/main.479156e7.chunk.css",
-    "main.js": "/ecoPetrol/static/js/main.ff44475f.chunk.js",
-    "main.js.map": "/ecoPetrol/static/js/main.ff44475f.chunk.js.map",
+    "main.css": "/ecoPetrol/static/css/main.63ece8e2.chunk.css",
+    "main.js": "/ecoPetrol/static/js/main.0d5d922f.chunk.js",
+    "main.js.map": "/ecoPetrol/static/js/main.0d5d922f.chunk.js.map",
     "runtime-main.js": "/ecoPetrol/static/js/runtime-main.aa5c3444.js",
     "runtime-main.js.map": "/ecoPetrol/static/js/runtime-main.aa5c3444.js.map",
-    "static/js/2.08191ab8.chunk.js": "/ecoPetrol/static/js/2.08191ab8.chunk.js",
-    "static/js/2.08191ab8.chunk.js.map": "/ecoPetrol/static/js/2.08191ab8.chunk.js.map",
+    "static/js/2.c77d4806.chunk.js": "/ecoPetrol/static/js/2.c77d4806.chunk.js",
+    "static/js/2.c77d4806.chunk.js.map": "/ecoPetrol/static/js/2.c77d4806.chunk.js.map",
     "static/js/3.7fa30c3e.chunk.js": "/ecoPetrol/static/js/3.7fa30c3e.chunk.js",
     "static/js/3.7fa30c3e.chunk.js.map": "/ecoPetrol/static/js/3.7fa30c3e.chunk.js.map",
     "index.html": "/ecoPetrol/index.html",
-    "static/css/main.479156e7.chunk.css.map": "/ecoPetrol/static/css/main.479156e7.chunk.css.map",
-    "static/js/2.08191ab8.chunk.js.LICENSE.txt": "/ecoPetrol/static/js/2.08191ab8.chunk.js.LICENSE.txt",
+    "static/css/main.63ece8e2.chunk.css.map": "/ecoPetrol/static/css/main.63ece8e2.chunk.css.map",
+    "static/js/2.c77d4806.chunk.js.LICENSE.txt": "/ecoPetrol/static/js/2.c77d4806.chunk.js.LICENSE.txt",
     "static/media/row.27ec26e2.svg": "/ecoPetrol/static/media/row.27ec26e2.svg",
     "static/media/dashboard.scss": "/ecoPetrol/static/media/tail.5810ff0b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.aa5c3444.js",
-    "static/js/2.08191ab8.chunk.js",
-    "static/css/main.479156e7.chunk.css",
-    "static/js/main.ff44475f.chunk.js"
+    "static/js/2.c77d4806.chunk.js",
+    "static/css/main.63ece8e2.chunk.css",
+    "static/js/main.0d5d922f.chunk.js"
   ]
 }
