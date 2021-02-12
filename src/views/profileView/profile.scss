@@ -134,13 +134,19 @@
     color: #42403A;
     font-size: 18px;
     margin-left: 20px;
+    margin-top: 10px;
 }
 
 .inputTextBox{
-    border-radius: 5px;
     width: 80%;
+    height: 40px;
     margin-left: 20px;
     background-color: #FBFBFB;
+    border: 0.25px solid #5C5A5A;
+    box-sizing: border-box;
+    border-radius: 9px;
+    padding-left: 16px;
+    margin-bottom: 20px;
 }
 
 .buttonCommentProfile{
@@ -149,6 +155,7 @@
     display: flex;
     flex-direction: row;
     align-items: center;
+    margin-top: 20px;
 }
 
 .cancelButtonDivCommentProfile{
@@ -174,7 +181,7 @@
     border-radius: 10px;
     color: white;
     width: 120px;
-    background-color: #42403A;
+    background-color: #004236;
 }
 
 .buttonPublishCommentProfile{
@@ -184,5 +191,6 @@
     border-radius: 10px;
     color: white;
     width: 120px;
-    background-color: #42403A;
+    background-color: #004236;
+    
 }
