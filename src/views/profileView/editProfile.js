@@ -93,7 +93,7 @@ export default class EditProfile extends React.Component {
             <div className="titleProfile">
                 <p className="titleProfile">Editar perfil</p>
             </div>
-            <div className="rowTitle1">
+            <div className="rowTitle">
                 <p className="titleEdit">Nombre</p>
             </div>
             <div className="rowTitle">

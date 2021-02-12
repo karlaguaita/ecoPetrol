@@ -22,7 +22,7 @@
 .title{
     font-size: 44px;
     color: #5C5A5A;
-    margin-bottom: 5vh;
+    margin-bottom: 1.5vh;
 }
 
 .description{
@@ -39,4 +39,9 @@
     margin-top: 10vh;
     border-style: none;
     background-color: white;
+}
+
+.exprogramp{
+    font-size: 12px;
+    margin-bottom: 20px;
 }
